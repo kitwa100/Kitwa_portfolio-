@@ -6,9 +6,8 @@
 
 I am a results-driven Data Analyst passionate about transforming raw, complex datasets into actionable business insights. I bridge the gap between technical metrics and strategic decision-making.
 
-- 💼 Available for: Data Analyst roles, freelance analytics, and data collaborations.
-- 🌱 Currently mastering: [e.g., Advanced Python, Cloud Data Warehousing (BigQuery)]
-- 📫 Connect with me: [[LinkedIn](Your-LinkedIn-URL)] | [[Portfolio Site/Blog](Your-Website-URL)] | [teresiakitwa100@email.com]
+- Avalable for: Data Analyst roles, freelance analytics, and data collaborations.
+-  Connect with me: [[LinkedIn](Your-LinkedIn-URL)] | [teresiakitwa100@email.com]
 
 ---
 
